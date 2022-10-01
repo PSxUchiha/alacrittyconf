@@ -1,1 +1,1 @@
-# alacrittyconf
+My personal alacritty config
